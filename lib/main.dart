@@ -193,7 +193,8 @@ class _CalculatorState extends State<Calculator> {
 
     setState(() {
       text = finalResult;
-    });
+    }
+    );
   }
 
   String add() {
@@ -227,6 +228,6 @@ class _CalculatorState extends State<Calculator> {
         return splitDecimal[0].toString();
       }
     }
-    return result;
+    return result ;
   }
 }
