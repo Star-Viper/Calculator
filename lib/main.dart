@@ -90,7 +90,7 @@ class _CalculatorState extends State<Calculator> {
               ],
             ),
             SizedBox(
-              height: 10,
+              height: 11,
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -102,7 +102,7 @@ class _CalculatorState extends State<Calculator> {
               ],
             ),
             SizedBox(
-              height: 10,
+              height: 11,
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -114,7 +114,7 @@ class _CalculatorState extends State<Calculator> {
               ],
             ),
             SizedBox(
-              height: 10,
+              height: 11,
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
